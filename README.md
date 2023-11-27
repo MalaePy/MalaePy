@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MalaePy
+- 🌱 I’m currently learning Python
+- 📫 How to reach me Discord: malae.exe
