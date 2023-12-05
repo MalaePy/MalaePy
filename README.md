@@ -1,4 +1,4 @@
 -  Hi, I’m @MalaePy
 -  I’m currently learning Python
 -  How to reach me Discord: malae.exe
--  My Pc :  i7-11700F, 4060Ti, 32Gb of RAM
+-  My Pc :  i9-11900KF, 4060Ti, 32Gb of RAM
